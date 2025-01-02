@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Jess!
 
 - 👩‍💻 I began my career transition into software development in 2022.
-- 🕹️ I previously worked for 7 years as a sales professional in the mobile gaming ecosystem (advertising, SaaS, analytics, and game testing). Check my [Linkedin](https://www.linkedin.com/in/jessicaslusark/) for more info.
+- 🕹️ I previously worked for 7 years as a sales professional in the mobile gaming ecosystem (publishing, advertising, analytics, testing, marketing). Check my [Linkedin](https://www.linkedin.com/in/jessicaslusark/) for more info.
 - 🎨 I have experience in digital art and freelanced for a short time as [thelazyred](https://www.instagram.com/doodled_by_je/).
 - ❤️ On my free time I like to draw, do sports, read manga or watch anime and learn about random topics online.
 - 📚 I'm a student at [42 Berlin](https://42berlin.de/about-us/). 
