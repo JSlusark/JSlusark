@@ -13,8 +13,7 @@
 
 
 <!------------------------------------ About and Experience ----------------------------->
- <img src="./src/coding_je_xs.gif"  max-width="400px" width="400px" align="left" alt="Computador iuriCode"> 
-
+ <img src="./src/coding_je.gif"  width="300px" align="left" alt="Computador iuriCode"> 
 <h3 align="center">👋 Hey there, I'm Jess!</h3>  
 
 <br>
@@ -52,35 +51,42 @@ I have a passion for building `full-stack` applications across web and mobile. I
 <h1 align="center">Featured projects</h1>  
 <!-- # Featured projects -->
 
-<p align="center">
+<p align="center"><i>👉 If on mobile, scroll sideways on each section to see each project</i></p>
 
-<!-- Project 1 -->
-  <a href="https://github.com/JSlusark/Uno-with-friends">
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JSlusark&repo=Uno-with-friends&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Uno-with-friends"></a> 
-<!-- Project2 -->
-  <a href="https://github.com/JSlusark/My_Movie_list">
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JSlusark&repo=My_Movie_list&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="My_Movie_list"></a>
-<!-- Project3 -->
-  <a href="https://github.com/JSlusark/Meet_app">
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JSlusark&repo=Meet_app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Meet app"></a><br/>
-<!-- Project4 -->
-    <a href="https://github.com/JSlusark/bootstrapped-docker-infrastructure">
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JSlusark&repo=bootstrapped-docker-infrastructure&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Bootstrapped Docker Infrastructure"></a>
-<!-- Project5 -->
- <a href="https://github.com/JSlusark/Dancefluencer_game">
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JSlusark&repo=Dancefluencer_game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Dancefluencer_game"></a>  
-<!-- Project 6-->
-<a href="https://github.com/JSlusark/Unity-Toybox">
-<img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JSlusark&repo=Unity-Toybox&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Unity-Toybox"></a>
-<!-- Project 7-->
-  <!-- <a href="https://github.com/JSlusark/Unity-Toybox">
-    <img width="45%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JSlusark&repo=Unity-Toybox&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Unity-Toybox">
-  </a> -->
-<!-- Project 8-->
-    <!-- <a href="https://github.com/JSlusark/Unity-Toybox">
-    <img width="45%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JSlusark&repo=Unity-Toybox&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Unity-Toybox">
-  </a> -->
-</p>
+<table align="center">
+  <tr>
+    <td colspan="4">Full-stack &amp; Interfaces</td>
+  </tr>
+  <tr>
+    <td width="300" align="center" valign="top"><a href="https://github.com/JSlusark/Uno-with-friends"><img src="src/thumbs/Uno-with-friends.gif" width="100%" alt="Uno with Friends" /></a><br/><a href="https://github.com/JSlusark/Uno-with-friends"><b>Uno with Friends</b></a><br/>Online multiplayer card game built as a full-stack team project with 4 developers.</td>
+    <td width="300" align="center" valign="top"><a href="https://github.com/JSlusark/My_Movie_list"><img src="src/thumbs/My_Movie_list.gif" width="100%" alt="My Movie List" /></a><br/><a href="https://github.com/JSlusark/My_Movie_list"><b>My Movie List</b></a><br/>React frontend and Node/Express API for browsing a movie database, logging in and managing a list of favorites.</td>
+    <td width="300" align="center" valign="top"><a href="https://github.com/JSlusark/wannawatch"><img src="src/thumbs/wannawatch.gif" width="100%" alt="WannaWatch" /></a><br/><a href="https://github.com/JSlusark/wannawatch"><b>WannaWatch</b></a><br/>A full rework of the My Movie List concept: a full-stack movie app with AI-powered recommendations, a stack of daily swipeable reccomendations and an evolving viewer persona.</td>
+    <td width="300" align="center" valign="top"><a href="https://github.com/JSlusark/trivia-data-visualizer"><img src="src/thumbs/trivia-data-visualizer.gif" width="100%" alt="Trivia Data Visualizer" /></a><br/><a href="https://github.com/JSlusark/trivia-data-visualizer"><b>Trivia Data Visualizer</b></a><br/>Interactive dashboard that turns live trivia API data into filterable charts, built with React, TypeScript and Recharts.</td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td colspan="4">Backend / Systems</td>
+  </tr>
+  <tr>
+    <td width="300" align="center" valign="top"><a href="https://github.com/JSlusark/My_movie_list_API"><img src="src/thumbs/My_movie_list_API.png" width="100%" alt="My Movie List API" /></a><br/><a href="https://github.com/JSlusark/My_movie_list_API"><b>My Movie List API</b></a><br/>REST API behind My Movie List, built with Node, Express and MongoDB, with JWT auth and input validation.</td>
+    <td width="300" align="center" valign="top"><a href="https://github.com/JSlusark/Minishell"><img src="src/thumbs/Minishell.gif" width="100%" alt="Minishell" /></a><br/><a href="https://github.com/JSlusark/Minishell"><b>Minishell</b></a><br/>Bash-like shell written in C as a team, with pipes, redirections, built-ins and environment variables.</td>
+    <td width="300" align="center" valign="top"><a href="https://github.com/JSlusark/Webserver"><img src="src/thumbs/Webserver.png" width="100%" alt="Webserv" /></a><br/><a href="https://github.com/JSlusark/Webserver"><b>Webserv</b></a><br/>HTTP/1.1 web server in C++98 built as a team of 3, with non-blocking I/O, CGI and config files.</td>
+    <td width="300" align="center" valign="top"><a href="https://github.com/JSlusark/bootstrapped-docker-infrastructure"><img src="src/thumbs/bootstrapped-docker-infrastructure.png" width="100%" alt="Bootstrapped Docker Infrastructure" /></a><br/><a href="https://github.com/JSlusark/bootstrapped-docker-infrastructure"><b>Bootstrapped Docker Infrastructure</b></a><br/>Multi-service Docker Compose setup with TLS, secrets management and isolated networking.</td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td colspan="3">Game Development</td>
+  </tr>
+  <tr>
+    <td width="300" align="center" valign="top"><a href="https://github.com/JSlusark/Dancefluencer_game"><img src="src/thumbs/Dancefluencer_game.gif" width="100%" alt="Dancefluencer" /></a><br/><a href="https://github.com/JSlusark/Dancefluencer_game"><b>Dancefluencer</b></a><br/>Hypercasual arcade/simulation mobile game prototype made in Unity during my Ubisoft mentorship.</td>
+    <td width="300" align="center" valign="top"><a href="https://github.com/JSlusark/Unity-Toybox"><img src="src/thumbs/Unity-Toybox.gif" width="100%" alt="Unity Toybox" /></a><br/><a href="https://github.com/JSlusark/Unity-Toybox"><b>Unity Toybox</b></a><br/>A collection of Unity prototypes exploring different game mechanics and ideas.</td>
+    <td width="300" align="center" valign="top"><a href="https://github.com/JSlusark/so_long"><img src="src/thumbs/so_long.gif" width="100%" alt="so_long" /></a><br/><a href="https://github.com/JSlusark/so_long"><b>so_long</b></a><br/>My own 2D game engine written in C with MiniLibX, plus a game built on it: collect every item, then reach the exit.</td>
+  </tr>
+</table>
 
 <br>
 
